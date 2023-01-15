@@ -1,0 +1,17 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+    Jason Rogers -- Developer 
+
+# THANKS
+
+    The love of my life for staying with me while I figure this out
+    The Odin Project for the cool Odin Image
+    RPS icons from freepik.com
+    
+# TECHNOLOGY COLOPHON
+
+    The Odin Project, CSS3, HTML5, javascript
+    Apache Server Configs, Modernizr, Normalize.css, 

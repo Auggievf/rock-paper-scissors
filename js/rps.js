@@ -66,7 +66,8 @@ function game(games){
         //console.log(`${player} ${computer}`);
         pscore = pscore + playRound(player, computer);
     }
-    
+
+    //computer always equals 0.
     if (pscore > 0) {
         console.log('You win the whole match!');
     } else if (pscore < 0) {
